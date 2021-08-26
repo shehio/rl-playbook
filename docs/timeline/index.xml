@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Timelines on My New Hugo Site</title>
+        <title>Timelines on Reinforcement Learning Timeline</title>
         <link>https://shehio.github.io/RL-Timeline/timeline/</link>
-        <description>Recent content in Timelines on My New Hugo Site</description>
+        <description>Recent content in Timelines on Reinforcement Learning Timeline</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sun, 01 Mar 1998 00:00:00 +0000</lastBuildDate>
