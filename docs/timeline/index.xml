@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Timelines on My New Hugo Site</title>
-        <link>http://example.org/timeline/</link>
+        <link>https://shehio.github.io/RL-Timeline/timeline/</link>
         <description>Recent content in Timelines on My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sun, 01 Mar 1998 00:00:00 +0000</lastBuildDate>
-        <atom:link href="http://example.org/timeline/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://shehio.github.io/RL-Timeline/timeline/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Sutton-Barto</title>
-            <link>http://example.org/timeline/sutton/</link>
+            <link>https://shehio.github.io/RL-Timeline/timeline/sutton/</link>
             <pubDate>Sun, 01 Mar 1998 00:00:00 +0000</pubDate>
             
-            <guid>http://example.org/timeline/sutton/</guid>
+            <guid>https://shehio.github.io/RL-Timeline/timeline/sutton/</guid>
             <description>Abstract Reinforcement Learning: An Introduction. Second Edition.</description>
             <content type="html"><![CDATA[<h2 id="abstract">Abstract</h2>
 <p>Reinforcement Learning: An Introduction. <a href="http://incompleteideas.net/book/the-book-2nd.html">Second Edition</a>.</p>
