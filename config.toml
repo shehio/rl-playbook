@@ -1,4 +1,4 @@
-baseURL = "https://shehio.github.io/RL-Timeline/"
+baseURL = "https://shehio.github.io/RL-Timeline"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Reinforcement Learning Timeline"
 theme = "timeline"
