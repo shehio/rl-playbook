@@ -1,7 +1,7 @@
 ---
 author:
   name: ""
-date: 9 Sep 2015
+date: 09 Sep 2015
 linktitle:
 type:
 - post
