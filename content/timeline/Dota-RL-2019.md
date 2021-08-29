@@ -1,7 +1,7 @@
 ---
 author:
   name: ""
-date: December 13, 2019
+date: 13 Dec 2019
 linktitle:
 type:
 - post
