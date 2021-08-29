@@ -2,3 +2,6 @@ baseURL = "https://rltimeline.com"
 languageCode = "en-us"
 title = "Reinforcement Learning Timeline"
 theme = "timeline"
+
+[Params]
+video = "DQN Breakout.mp4"
