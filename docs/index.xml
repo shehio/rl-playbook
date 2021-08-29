@@ -167,7 +167,8 @@ We demonstrate our approach on the task of manipulating objects with a robotic a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rltimeline.com/about/</guid>
-      <description>@Todo: Fill in here!</description>
+      <description>What? This website compiles a list of research papers to show how reinforcement learning (RL) has evolved over time. It’s a resource meant for novice researchers and hobbyists to learn more about breakthroughs in RL across the years.
+Why? For many many decades, researchers have studied reinforcement Learning, a paradigm of machine learning capable of making intelligent decisions by studying sequences of correlated events. Researchers believed it could bring us closer to Artificial General Intelligence one day.</description>
     </item>
     
   </channel>
