@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/dota-rl-2019/</loc>
+    <loc>https://rltimeline.com/timeline/dota-rl-2019/</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/starcraft-rl-2019/</loc>
+    <loc>https://rltimeline.com/timeline/starcraft-rl-2019/</loc>
     <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/poker-rl-2019/</loc>
+    <loc>https://rltimeline.com/timeline/poker-rl-2019/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/alpha-zero-2018/</loc>
+    <loc>https://rltimeline.com/timeline/alpha-zero-2018/</loc>
     <lastmod>2018-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/sac-2018/</loc>
+    <loc>https://rltimeline.com/timeline/sac-2018/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/self-play-alpha-go-zero-2017/</loc>
+    <loc>https://rltimeline.com/timeline/self-play-alpha-go-zero-2017/</loc>
     <lastmod>2017-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/ppo-2017/</loc>
+    <loc>https://rltimeline.com/timeline/ppo-2017/</loc>
     <lastmod>2017-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/hindsight-er-2016/</loc>
+    <loc>https://rltimeline.com/timeline/hindsight-er-2016/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/asynchronous-methods-2016/</loc>
+    <loc>https://rltimeline.com/timeline/asynchronous-methods-2016/</loc>
     <lastmod>2016-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/matering-go-2016/</loc>
+    <loc>https://rltimeline.com/timeline/matering-go-2016/</loc>
     <lastmod>2016-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/prioritized-er-2015/</loc>
+    <loc>https://rltimeline.com/timeline/prioritized-er-2015/</loc>
     <lastmod>2015-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/double-q-learning-2015/</loc>
+    <loc>https://rltimeline.com/timeline/double-q-learning-2015/</loc>
     <lastmod>2015-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/continuous-control-2015/</loc>
+    <loc>https://rltimeline.com/timeline/continuous-control-2015/</loc>
     <lastmod>2015-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/human-level-control-2015/</loc>
+    <loc>https://rltimeline.com/timeline/human-level-control-2015/</loc>
     <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/trpo-2015/</loc>
+    <loc>https://rltimeline.com/timeline/trpo-2015/</loc>
     <lastmod>2015-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/dpg-2014/</loc>
+    <loc>https://rltimeline.com/timeline/dpg-2014/</loc>
     <lastmod>2014-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/atari-2013/</loc>
+    <loc>https://rltimeline.com/timeline/atari-2013/</loc>
     <lastmod>2013-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/</loc>
+    <loc>https://rltimeline.com/</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/timeline/</loc>
+    <loc>https://rltimeline.com/timeline/</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/about/</loc>
+    <loc>https://rltimeline.com/about/</loc>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/categories/</loc>
+    <loc>https://rltimeline.com/categories/</loc>
   </url><url>
-    <loc>https://shehio.github.io/RL-Timeline/tags/</loc>
+    <loc>https://rltimeline.com/tags/</loc>
   </url>
 </urlset>
