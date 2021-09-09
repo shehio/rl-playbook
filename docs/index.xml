@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning Timeline</title>
+    <link>https://rltimeline.com/</link>
+    <description>Recent content on Reinforcement Learning Timeline</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rltimeline.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dota 2 with Large Scale Deep Reinforcement Learning</title>
+      <link>https://rltimeline.com/timeline/dota-rl-2019/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/dota-rl-2019/</guid>
+      <description>Abstract On April 13th, 2019, OpenAI Five became the first AI system to defeat the world champions at an esports game. The game of Dota 2 presents novel challenges for AI systems such as long time horizons, imperfect information, and complex, continuous state-action spaces, all challenges which will become increasingly central to more capable AI systems. OpenAI Five leveraged existing reinforcement learning techniques, scaled to learn from batches of approximately 2 million frames every 2 seconds.</description>
+    </item>
+    
+    <item>
+      <title>Grandmaster level in StarCraft II using multi-agent reinforcement learning</title>
+      <link>https://rltimeline.com/timeline/starcraft-rl-2019/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/starcraft-rl-2019/</guid>
+      <description>Abstract Many real-world applications require artificial agents to compete and coordinate with other agents in complex environments. As a stepping stone to this goal, the domain of StarCraft has emerged as an important challenge for artificial intelligence research, owing to its iconic and enduring status among the most difficult professional esports and its relevance to the real world in terms of its raw complexity and multi-agent challenges. Over the course of a decade and numerous competitions1-3, the strongest agents have simplified important aspects of the game, utilized superhuman capabilities, or employed hand-crafted sub-systems4.</description>
+    </item>
+    
+    <item>
+      <title>Superhuman AI for multiplayer poker</title>
+      <link>https://rltimeline.com/timeline/poker-rl-2019/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/poker-rl-2019/</guid>
+      <description>Abstract In recent years there have been great strides in artificial intelligence (AI), with games often serving as challenge problems, benchmarks, and milestones for progress. Poker has served for decades as such a challenge problem. Past successes in such benchmarks, including poker, have been limited to two-player games. However, poker in particular is traditionally played with more than two players. Multiplayer games present fundamental additional issues beyond those in two-player games, and multiplayer poker is a recognized AI milestone.</description>
+    </item>
+    
+    <item>
+      <title>A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play</title>
+      <link>https://rltimeline.com/timeline/alpha-zero-2018/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/alpha-zero-2018/</guid>
+      <description>Abstract The game of chess is the longest-studied domain in the history of artificial intelligence. The strongest programs are based on a combination of sophisticated search techniques, domain-specific adaptations, and handcrafted evaluation functions that have been refined by human experts over several decades. By contrast, the AlphaGo Zero program recently achieved superhuman performance in the game of Go by reinforcement learning from self-play. In this paper, we generalize this approach into a single AlphaZero algorithm that can achieve superhuman performance in many challenging games.</description>
+    </item>
+    
+    <item>
+      <title>Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</title>
+      <link>https://rltimeline.com/timeline/sac-2018/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/sac-2018/</guid>
+      <description>Abstract Model-free deep reinforcement learning (RL) algorithms have been demonstrated on a range of challenging decision making and control tasks. However, these methods typically suffer from two major challenges: very high sample complexity and brittle convergence properties, which necessitate meticulous hyperparameter tuning. Both of these challenges severely limit the applicability of such methods to complex, real-world domains. In this paper, we propose soft actor-critic, an off-policy actor-critic deep RL algorithm based on the maximum entropy reinforcement learning framework.</description>
+    </item>
+    
+    <item>
+      <title>Mastering the game of Go without human knowledge</title>
+      <link>https://rltimeline.com/timeline/self-play-alpha-go-zero-2017/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/self-play-alpha-go-zero-2017/</guid>
+      <description>Abstract A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in challenging domains. Recently, AlphaGo became the first program to defeat a world champion in the game of Go. The tree search in AlphaGo evaluated positions and selected moves using deep neural networks. These neural networks were trained by supervised learning from human expert moves, and by reinforcement learning from self-play. Here we introduce an algorithm based solely on reinforcement learning, without human data, guidance or domain knowledge beyond game rules.</description>
+    </item>
+    
+    <item>
+      <title>Proximal Policy Optimization Algorithms</title>
+      <link>https://rltimeline.com/timeline/ppo-2017/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/ppo-2017/</guid>
+      <description>Abstract We propose a new family of policy gradient methods for reinforcement learning, which alternate between sampling data through interaction with the environment, and optimizing a “surrogate” objective function using stochastic gradient ascent. Whereas standard policy gradient methods perform one gradient update per data sample, we propose a novel objective function that enables multiple epochs of minibatch updates. The new methods, which we call proximal policy optimization (PPO), have some of the benefits of trust region policy optimization (TRPO), but they are much simpler to implement, more general, and have better sample complexity (empirically).</description>
+    </item>
+    
+    <item>
+      <title>Hindsight Experience Replay</title>
+      <link>https://rltimeline.com/timeline/hindsight-er-2016/</link>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/hindsight-er-2016/</guid>
+      <description>Abstract Dealing with sparse rewards is one of the biggest challenges in Reinforcement Learning (RL). We present a novel technique called Hindsight Experience Replay which allows sample-efficient learning from rewards which are sparse and binary and therefore avoid the need for complicated reward engineering. It can be combined with an arbitrary off-policy RL algorithm and may be seen as a form of implicit curriculum.
+We demonstrate our approach on the task of manipulating objects with a robotic arm.</description>
+    </item>
+    
+    <item>
+      <title>Asynchronous Methods for Deep Reinforcement Learning</title>
+      <link>https://rltimeline.com/timeline/asynchronous-methods-2016/</link>
+      <pubDate>Thu, 04 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/asynchronous-methods-2016/</guid>
+      <description>Abstract We propose a conceptually simple and lightweight framework for deep reinforcement learning that uses asynchronous gradient descent for optimization of deep neural network controllers. We present asynchronous variants of four standard reinforcement learning algorithms and show that parallel actor-learners have a stabilizing effect on training allowing all four methods to successfully train neural network controllers. The best performing method, an asynchronous variant of actor-critic, surpasses the current state-of-the-art on the Atari domain while training for half the time on a single multi-core CPU instead of a GPU.</description>
+    </item>
+    
+    <item>
+      <title>Mastering the game of Go with deep neural networks and tree search</title>
+      <link>https://rltimeline.com/timeline/matering-go-2016/</link>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/matering-go-2016/</guid>
+      <description>Abstract The game of Go has long been viewed as the most challenging of classic games for artificial intelligence owing to its enormous search space and the difficulty of evaluating board positions and moves. Here we introduce a new approach to computer Go that uses ‘value networks’ to evaluate board positions and ‘policy networks’ to select moves. These deep neural networks are trained by a novel combination of supervised learning from human expert games, and reinforcement learning from games of self-play.</description>
+    </item>
+    
+    <item>
+      <title>Prioritized Experience Replay</title>
+      <link>https://rltimeline.com/timeline/prioritized-er-2015/</link>
+      <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/prioritized-er-2015/</guid>
+      <description>Abstract Experience replay lets online reinforcement learning agents remember and reuse experiences from the past. In prior work, experience transitions were uniformly sampled from a replay memory. However, this approach simply replays transitions at the same frequency that they were originally experienced, regardless of their significance. In this paper we develop a framework for prioritizing experience, so as to replay important transitions more frequently, and therefore learn more efficiently. We use prioritized experience replay in Deep Q-Networks (DQN), a reinforcement learning algorithm that achieved human-level performance across many Atari games.</description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning with Double Q-learning</title>
+      <link>https://rltimeline.com/timeline/double-q-learning-2015/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/double-q-learning-2015/</guid>
+      <description>Abstract The popular Q-learning algorithm is known to overestimate action values under certain conditions. It was not previously known whether, in practice, such overestimations are common, whether they harm performance, and whether they can generally be prevented. In this paper, we answer all these questions affirmatively. In particular, we first show that the recent DQN algorithm, which combines Q-learning with a deep neural network, suffers from substantial overestimations in some games in the Atari 2600 domain.</description>
+    </item>
+    
+    <item>
+      <title>Continuous control with deep reinforcement learning</title>
+      <link>https://rltimeline.com/timeline/continuous-control-2015/</link>
+      <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/continuous-control-2015/</guid>
+      <description>Abstract We adapt the ideas underlying the success of Deep Q-Learning to the continuous action domain. We present an actor-critic, model-free algorithm based on the deterministic policy gradient that can operate over continuous action spaces. Using the same learning algorithm, network architecture and hyper-parameters, our algorithm robustly solves more than 20 simulated physics tasks, including classic problems such as cartpole swing-up, dexterous manipulation, legged locomotion and car driving. Our algorithm is able to find policies whose performance is competitive with those found by a planning algorithm with full access to the dynamics of the domain and its derivatives.</description>
+    </item>
+    
+    <item>
+      <title>Human-level control through deep reinforcement learning</title>
+      <link>https://rltimeline.com/timeline/human-level-control-2015/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/human-level-control-2015/</guid>
+      <description>Abstract The theory of reinforcement learning provides a normative account, deeply rooted in psychological and neuroscientific perspectives on animal behavior, of how agents may optimize their control of an environment. To use reinforcement learning successfully institutions approaching real-world complexity, however, agents are confronted with a difficult task: they must derive efficient representations of the environment from high-dimensional sensory inputs, and use these to generalize past experience to new situations. Remarkably, humans and other animals seem to solve this problem through a harmonious combination of reinforcement learning and hierarchical sensory processing systems, the former evidenced by a wealth of neural data revealing notable parallels between the phasic signals emitted by dopaminergic neurons and temporal difference reinforcement learning algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Trust Region Policy Optimization</title>
+      <link>https://rltimeline.com/timeline/trpo-2015/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/trpo-2015/</guid>
+      <description>Abstract We describe an iterative procedure for optimizing policies, with guaranteed monotonic improvement. By making several approximations to the theoretically-justified procedure, we develop a practical algorithm, called Trust Region Policy Optimization (TRPO). This algorithm is similar to natural policy gradient methods and is effective for optimizing large nonlinear policies such as neural networks. Our experiments demonstrate its robust performance on a wide variety of tasks: learning simulated robotic swimming, hopping, and walking gaits; and playing Atari games using images of the screen as input.</description>
+    </item>
+    
+    <item>
+      <title>Deterministic Policy Gradient Algorithms</title>
+      <link>https://rltimeline.com/timeline/dpg-2014/</link>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/dpg-2014/</guid>
+      <description>Abstract In this paper we consider deterministic policy gradient algorithms for reinforcement learning with continuous actions. The deterministic policy gradient has a particularly appealing form: it is the expected gradient of the action-value function. This simple form means that the deterministic policy gradient can be estimated much more efficiently than the usual stochastic policy gradient. To ensure adequate exploration, we introduce an off-policy actor-critic algorithm that learns a deterministic target policy from an exploratory behaviour policy.</description>
+    </item>
+    
+    <item>
+      <title>Playing Atari with Deep Reinforcement Learning</title>
+      <link>https://rltimeline.com/timeline/atari-2013/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/timeline/atari-2013/</guid>
+      <description>Abstract   We present the first deep learning model to successfully learn control policies directly from high-dimensional sensory input using reinforcement learning. The model is a convolutional neural network, trained with a variant of Q-learning, whose input is raw pixels and whose output is a value function estimating future rewards. We apply our method to seven Atari 2600 games from the Arcade Learning Environment, with no adjustment of the architecture or learning algorithm.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://rltimeline.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rltimeline.com/about/</guid>
+      <description>What? This website compiles a list of research papers to show how reinforcement learning (RL) has evolved over time. It’s a resource meant for novice researchers and hobbyists to learn more about breakthroughs in RL across the years.
+Why? For many many decades, researchers have studied reinforcement Learning, a paradigm of machine learning capable of making intelligent decisions by studying sequences of correlated events. Researchers believed it could bring us closer to Artificial General Intelligence one day.</description>
+    </item>
+    
+  </channel>
+</rss>
