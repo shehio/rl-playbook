@@ -1,10 +1,11 @@
 baseURL = "https://rltimeline.com"
 languageCode = "en-us"
-title = "Reinforcement Learning Timeline"
+title = "Project Reinforcement Learning"
 theme = "timeline"
 
 [Params]
 video = "DQN Breakout.mp4"
+header = "Project RL"
 
 [markup.goldmark.renderer]
 unsafe= true
