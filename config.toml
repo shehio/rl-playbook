@@ -6,6 +6,7 @@ theme = "timeline"
 [Params]
 video = "DQN Breakout.mp4"
 header = "Project RL"
+timelineTitle = "How RL evolved"
 
 [markup.goldmark.renderer]
 unsafe= true
