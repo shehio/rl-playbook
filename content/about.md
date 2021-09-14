@@ -2,7 +2,13 @@
 title: About
 ---
 
-**Why?**
+#### Contents
+| [Why](#why) | \| [What](#what) | \| [How](#how) | \| [How I learned RL](#how-i-learned-rl) |
+| --- | --- | ---- | --- |
+
+---
+
+## Why?
 
 RL is a machine learning paradigm that seeks to make optimal decisions by studying sequences of correlated events. In the 20th century, AI researchers had studied RL for decades but to no avail.
 
@@ -16,11 +22,15 @@ These achievements didn’t go unnoticed, with keen researchers featured in vari
 
 Games have provided the perfect test environment for different RL algorithms, although researchers have since taken RL to more practical uses. RL shines in solving problems related to robotics, exploration rovers, and of course, self-driving cars. Moreover, it’s used in bid optimization for online ad auctions and building world-class recommenders for your next song or movie.
 
-**What?**
+---
+
+## What?
 
 This website presents a compiled list of research papers and resources to describe the evolution of RL algorithms over time. It’s a resource meant for novice researchers and hobbyists to learn more about breakthroughs in RL throughout the years.
 
-**How**?
+---
+
+## How?
 
 Reinforcement Learning is a branch of machine learning that studies optimal decision-making to maximize a reward function (the equivalent of winning a game). Different algorithms attempt to maximize the reward differently, either by maximizing the value function, value-action function, policy, or a combination.
 
@@ -30,7 +40,9 @@ Many RL problems are modeled as [Markovian Decision Processes(MDPs)](https://en.
 
 In his seminal [reference](http://incompleteideas.net/book/the-book-2nd.html), [Richard Sutton](https://en.wikipedia.org/wiki/Richard_S._Sutton) writes: “Almost all reinforcement learning algorithms involve estimating value functions.”
 
-**How I learned RL**
+---
+
+## How I Learned RL
 
 When I graduated in the early 2010s, I lost hope in machine learning. I perceived different papers as presenting micro-models that fit particular use-cases and only feature carefully curated samples in their results. There’s no way this was going to blow out to full-blown [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence), I thought. 
 
