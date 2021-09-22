@@ -14,7 +14,6 @@ weight: 10
 
 ## Abstract
 
-
 <figure>
   <img src="/images/Double-Q-learning.png" />
 </figure>
