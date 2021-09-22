@@ -3,19 +3,24 @@ title: About
 ---
 
 #### Contents
-| [Why Is RL Interesting?](#why-is-rl-interesting) | \| [What Is This Website?](#what-is-this-website) | \| [How Does RL Work?](#how-does-rl-work) | \| [How I learned RL?](#how-i-learned-rl) |
-| --- | --- | ---- | --- | --- | --- |
+* [What Is This Website?](#what-is-this-website)
+* [What Is RL?](#what-is-rl)
+* [Why Is RL Interesting?](#why-is-rl-interesting)
+* [How Does RL Work?](#how-does-rl-work)
 
 ---
-
 
 ### What Is This Website?
 
 This website compiles a list of research papers and resources to describe the evolution of RL algorithms over time. It’s a resource meant for novice researchers and hobbyists to learn more about breakthroughs in RL throughout the years.
 
+---
+
 ### What Is RL?
 
 RL is a machine learning paradigm that seeks to make optimal decisions by studying sequences of correlated events.
+
+---
 
 ## Why Is RL Interesting?
 
@@ -30,6 +35,8 @@ These achievements didn’t go unnoticed, with RL researchers soon having featur
 Games have provided the perfect test environment for different RL algorithms, although researchers have since refocused RL on more practical uses. See RL shines in solving complex problems that require planning a few steps ahead like robotics, exploration rovers, and of course, self-driving cars. Moreover, it’s used in bid optimization for online ad auctions and delivering individually tailored recommendations for your next song or movie.
 
 In 2020, RL seemed to be on a trajectory to change the world as we know it. Nowadays, AI researchers believe that RL could one day bring us closer to [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence), i.e., the creation of intelligent agents capable of understanding or learning any intellectual task. In short, these computer programs would be capable of passing the well-known [Turing test](https://en.wikipedia.org/wiki/Turing_test).
+
+---
 
 ## How Does RL Work?
 
