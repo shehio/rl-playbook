@@ -13,6 +13,7 @@ weight: 10
 ---
 
 ## Abstract
+
 <figure>
   <img src="/images/Atari-2013-1.png" />
 </figure>
