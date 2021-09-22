@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="map[name:]">
-<meta name="description" content="Abstract A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in challenging domains. Recently, AlphaGo became the first program to defeat a world champion in the game of Go. The tree search in AlphaGo evaluated positions and selected moves using deep neural networks. These neural networks were trained by supervised learning from human expert moves, and by reinforcement learning from self-play. Here we introduce an algorithm based solely on reinforcement learning, without human data, guidance or domain knowledge beyond game rules." />
+<meta name="description" content="Abstract   A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in challenging domains. Recently, AlphaGo became the first program to defeat a world champion in the game of Go. The tree search in AlphaGo evaluated positions and selected moves using deep neural networks. These neural networks were trained by supervised learning from human expert moves, and by reinforcement learning from self-play. Here we introduce an algorithm based solely on reinforcement learning, without human data, guidance or domain knowledge beyond game rules." />
 <meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
@@ -14,7 +14,7 @@
 
     <title>
         
-            Mastering the game of Go without human knowledge :: Project Reinforcement Learning 
+            Mastering the game of Go without human knowledge :: Reinforcement Learning Playbook 
         
     </title>
 
@@ -43,13 +43,13 @@
 
 
 <meta itemprop="name" content="Mastering the game of Go without human knowledge">
-<meta itemprop="description" content="Abstract A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in challenging domains. Recently, AlphaGo became the first program to defeat a world champion in the game of Go. The tree search in AlphaGo evaluated positions and selected moves using deep neural networks. These neural networks were trained by supervised learning from human expert moves, and by reinforcement learning from self-play. Here we introduce an algorithm based solely on reinforcement learning, without human data, guidance or domain knowledge beyond game rules."><meta itemprop="datePublished" content="2017-10-19T00:00:00&#43;00:00" />
+<meta itemprop="description" content="Abstract   A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in challenging domains. Recently, AlphaGo became the first program to defeat a world champion in the game of Go. The tree search in AlphaGo evaluated positions and selected moves using deep neural networks. These neural networks were trained by supervised learning from human expert moves, and by reinforcement learning from self-play. Here we introduce an algorithm based solely on reinforcement learning, without human data, guidance or domain knowledge beyond game rules."><meta itemprop="datePublished" content="2017-10-19T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2017-10-19T00:00:00&#43;00:00" />
 <meta itemprop="wordCount" content="155">
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Mastering the game of Go without human knowledge"/>
-<meta name="twitter:description" content="Abstract A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in challenging domains. Recently, AlphaGo became the first program to defeat a world champion in the game of Go. The tree search in AlphaGo evaluated positions and selected moves using deep neural networks. These neural networks were trained by supervised learning from human expert moves, and by reinforcement learning from self-play. Here we introduce an algorithm based solely on reinforcement learning, without human data, guidance or domain knowledge beyond game rules."/>
+<meta name="twitter:description" content="Abstract   A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in challenging domains. Recently, AlphaGo became the first program to defeat a world champion in the game of Go. The tree search in AlphaGo evaluated positions and selected moves using deep neural networks. These neural networks were trained by supervised learning from human expert moves, and by reinforcement learning from self-play. Here we introduce an algorithm based solely on reinforcement learning, without human data, guidance or domain knowledge beyond game rules."/>
 
 
 
@@ -75,7 +75,7 @@
         <a href="https://rltimeline.com" style="text-decoration: none;">
     <div class="logo">
         
-            <span class="logo__mark">Project RL</span>
+            <span class="logo__mark">RL Playbook</span>
             <span class="logo__text"></span>
             <span class="logo__cursor" style=
                   "
@@ -125,9 +125,12 @@
 
       <div class="post-content">
         <h2 id="abstract">Abstract</h2>
+<figure>
+  <img src="/images/Alpha-Go-Zero.png" />
+</figure>
 <p>A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in challenging domains. Recently, AlphaGo became the first program to defeat a world champion in the game of Go. The tree search in AlphaGo evaluated positions and selected moves using deep neural networks. These neural networks were trained by supervised learning from human expert moves, and by reinforcement learning from self-play. Here we introduce an algorithm based solely on reinforcement learning, without human data, guidance or domain knowledge beyond game rules. AlphaGo becomes its own teacher: a neural network is trained to predict AlphaGo&rsquo;s own move selections and also the winner of AlphaGo&rsquo;s games. This neural network improves the strength of the tree search, resulting in higher quality move selection and stronger self-play in the next iteration. Starting tabula rasa, our new program AlphaGo Zero achieved superhuman performance, winning 100-0 against the previously published, champion-defeating AlphaGo.</p>
-<p><a href="https://www.nature.com/articles/nature24270">Nature Article</a>
-<a href="https://www.nature.com/articles/nature24270.epdf?sharing_token=Urd8Xo0dBqkq96ZG2bJAiNRgN0jAjWel9jnR3ZoTv0MzTglC12p1NiU2orOu-c1nBdYrrl5mO_G-4ivReqyPdGtpXIYZu2l7Mf8cQvvSKvsnA_tYG0ETemCRq4NAeEGa7s3Q5cxdhxdo4diqVNKfVv6z3pxjfJItf-_W8sMFzoEZgx9ZoMmgzTVWfy37nJ0Zel_NDqMt0C2d3XoGTl7rgX4DHsXdaqmx37M4elyLPpc%3D">Paper</a></p>
+<p><a href="https://www.nature.com/articles/nature24270">Nature Article</a></p>
+<p><a href="https://www.nature.com/articles/nature24270.epdf?sharing_token=Urd8Xo0dBqkq96ZG2bJAiNRgN0jAjWel9jnR3ZoTv0MzTglC12p1NiU2orOu-c1nBdYrrl5mO_G-4ivReqyPdGtpXIYZu2l7Mf8cQvvSKvsnA_tYG0ETemCRq4NAeEGa7s3Q5cxdhxdo4diqVNKfVv6z3pxjfJItf-_W8sMFzoEZgx9ZoMmgzTVWfy37nJ0Zel_NDqMt0C2d3XoGTl7rgX4DHsXdaqmx37M4elyLPpc%3D">Paper</a></p>
 
       </div>
     </article>
