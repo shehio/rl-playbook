@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/shehabyasser/workspace/project-rl",
+	"sourceRoot": "/Users/shehabyasser/workspace/Project-RL",
 	"sources": [
 		"themes/timeline/assets/scss/main.scss",
 		"themes/timeline/assets/scss/_prism.scss",
