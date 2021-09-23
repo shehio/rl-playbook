@@ -1,4 +1,4 @@
-baseURL = "https://rltimeline.com"
+baseURL = "https://rlplaybook.com"
 languageCode = "en-us"
 title = "Reinforcement Learning Playbook"
 theme = "timeline"
