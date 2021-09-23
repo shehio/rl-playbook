@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Reinforcement Learning Playbook</title>
-    <link>https://rltimeline.com/categories/</link>
+    <link>https://rlplaybook.com/categories/</link>
     <description>Recent content in Categories on Reinforcement Learning Playbook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rltimeline.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rlplaybook.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
