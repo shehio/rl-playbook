@@ -1,1 +1,3 @@
-# Project-RL
+# rl-playbook
+
+[About](https://rlplaybook.com/about/)
