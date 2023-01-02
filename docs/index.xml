@@ -167,7 +167,7 @@ We demonstrate our approach on the task of manipulating objects with a robotic a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rlplaybook.com/about/</guid>
-      <description>Contents  What Is This Website? What Is RL? Why Is RL Interesting? How Does RL Work?   What Is This Website? This website compiles a list of research papers and resources to describe the evolution of RL algorithms over time. It’s a resource meant for novice researchers and hobbyists to learn more about breakthroughs in RL throughout the years.
+      <description>Contents  What Is This Website? What Is RL? Why Is RL Interesting? How Does RL Work? Who Maintains This Website?   What Is This Website? This website compiles a list of research papers and resources to describe the evolution of RL algorithms over time. It’s a resource meant for novice researchers and hobbyists to learn more about breakthroughs in RL throughout the years.
  What Is RL? RL is a machine learning paradigm that seeks to make optimal decisions by studying sequences of correlated events.</description>
     </item>
     
