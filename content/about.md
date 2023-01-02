@@ -7,6 +7,7 @@ title: About
 * [What Is RL?](#what-is-rl)
 * [Why Is RL Interesting?](#why-is-rl-interesting)
 * [How Does RL Work?](#how-does-rl-work)
+* [Who Maintains This Website?](#who-maintains-this-website)
 
 ---
 
@@ -22,7 +23,7 @@ RL is a machine learning paradigm that seeks to make optimal decisions by studyi
 
 ---
 
-## Why Is RL Interesting?
+### Why Is RL Interesting?
 
 In the late 20th century, AI researchers attempted to model different complex problems using  RL frameworks. After decades of research, their efforts were to no avail. Although RL didn’t initially seem to be a promising field of study, true believers never lost hope. 
 
@@ -38,7 +39,7 @@ In 2020, RL seemed to be on a trajectory to change the world as we know it. Nowa
 
 ---
 
-## How Does RL Work?
+### How Does RL Work?
 
 Reinforcement Learning is a branch of machine learning that studies optimal decision-making to maximize a reward function (the equivalent of winning a game). Different algorithms attempt to maximize the reward differently, either by maximizing the value function, value-action function, policy, or a combination.
 
@@ -47,3 +48,9 @@ RL can either be model-based, with the algorithm attempting to figure out the tr
 Many RL problems are modeled as [Markovian Decision Processes(MDPs)](https://en.wikipedia.org/wiki/Markov_decision_process), which are mostly partially observed. It also leverages [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming), [Monte Carlo simulations](https://en.wikipedia.org/wiki/Monte_Carlo_method), and of course, [neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network).
 
 In his seminal [reference](http://incompleteideas.net/book/the-book-2nd.html), [Richard Sutton](https://en.wikipedia.org/wiki/Richard_S._Sutton) writes: “Almost all reinforcement learning algorithms involve estimating value functions.”
+
+
+---
+
+### Who Maintains This Website?
+[Shehab Yasser](https://www.shehabyasser.com)
