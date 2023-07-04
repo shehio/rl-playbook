@@ -7,6 +7,7 @@ type:
 - post
 - posts
 title: Asynchronous Methods for Deep Reinforcement Learning
+img: /images/Asynchronous-methods.png
 eventname:
 eventlocation:  
 weight: 10
