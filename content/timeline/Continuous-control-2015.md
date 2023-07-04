@@ -7,6 +7,7 @@ type:
 - post
 - posts
 title: Continuous control with deep reinforcement learning
+img: /images/Continuous-control.png
 eventname:
 eventlocation:  
 weight: 10

@@ -7,6 +7,7 @@ type:
 - post
 - posts
 title: Human-level control through deep reinforcement learning
+img: /images/Human-level-control.png
 eventname:
 eventlocation:  
 weight: 10

@@ -7,6 +7,7 @@ type:
 - post
 - posts
 title: A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play
+img: /images/Alpha-Zero.png
 eventname:
 eventlocation:  
 weight: 10
