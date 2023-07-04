@@ -7,6 +7,7 @@ type:
 - post
 - posts
 title: Dota 2 with Large Scale Deep Reinforcement Learning
+img: /images/DOTA.png
 eventname:
 eventlocation:  
 weight: 10

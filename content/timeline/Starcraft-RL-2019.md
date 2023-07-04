@@ -7,6 +7,7 @@ type:
 - post
 - posts
 title: Grandmaster level in StarCraft II using multi-agent reinforcement learning
+img: /images/Alpha-Star.png
 eventname:
 eventlocation:  
 weight: 10

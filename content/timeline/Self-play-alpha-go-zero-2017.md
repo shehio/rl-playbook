@@ -7,6 +7,7 @@ type:
 - post
 - posts
 title: Mastering the game of Go without human knowledge
+img: /images/Alpha-Go-Zero.png
 eventname:
 eventlocation:  
 weight: 10

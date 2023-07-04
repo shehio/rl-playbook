@@ -7,6 +7,7 @@ type:
 - post
 - posts
 title: Hindsight Experience Replay
+img: /images/HER.png
 eventname:
 eventlocation:  
 weight: 10

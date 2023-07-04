@@ -7,6 +7,7 @@ type:
 - post
 - posts
 title: Playing Atari with Deep Reinforcement Learning
+img: /images/Atari-2013-1.png
 eventname:
 eventlocation:  
 weight: 10

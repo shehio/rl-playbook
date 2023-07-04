@@ -7,6 +7,7 @@ type:
 - post
 - posts
 title: Deep Reinforcement Learning with Double Q-learning
+img: /images/Double-Q-learning.png
 eventname:
 eventlocation:  
 weight: 10
