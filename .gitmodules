@@ -1,5 +1,4 @@
 [submodule "themes/timeline"]
 	path = themes/timeline
 	url = https://github.com/shehio/hugo-theme-timeline
-[submodule "timeline"]
 	branch = main
