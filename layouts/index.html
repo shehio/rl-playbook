@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<main aria-role="main">
+
+  <div class="content">
+    <div class="index-content framed">
+      <h1 id="hello-there">Hello there!</h1>
+      <p>Welcome to {{.Site.Title}}</p>
+      <div align="center">
+        <a class="button" href="{{.Site.BaseURL}}/timeline">View</a>
+        <a class="button" href="{{.Site.BaseURL}}/about">About</a>
+      </div>
+
+      <div class="video-container">
+        <video src="{{.Site.Params.video}}" autoplay loop muted playsinline></video>
+      </div>
+
+    </div>
+  </div>
+
+</main>
+
+{{ end }}
