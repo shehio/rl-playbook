@@ -4,6 +4,7 @@ title = "Reinforcement Learning Playbook"
 theme = "timeline"
 
 [Params]
+author = "Shehab Yasser"
 video = "DQN Breakout.mp4"
 header = "RL Playbook"
 timelineTitle = "How RL Evolved"
