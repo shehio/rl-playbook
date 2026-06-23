@@ -4,3 +4,4 @@ resources/*
 docs/.DS_Store
 
 CNAME
+.hugo_build.lock
