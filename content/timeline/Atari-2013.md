@@ -16,10 +16,10 @@ weight: 10
 ## Abstract
 
 <figure>
-  <img src="/images/Atari-2013-1.png" />
+  <img src="/images/Atari-2013-1.png" alt="Screenshots of five Atari 2600 games used as benchmarks: Pong, Breakout, Space Invaders, Seaquest, and Beam Rider" />
 </figure>
 <figure>
-  <img src="/images/Atari-2013-2.png" />
+  <img src="/images/Atari-2013-2.png" alt="Training curves showing average reward per episode and average Q-value increasing over training epochs on Breakout and Seaquest" />
 </figure>
 
 We present the first deep learning model to successfully learn control policies directly from high-dimensional sensory input using reinforcement learning. The model is a convolutional neural network, trained with a variant of Q-learning, whose input is raw pixels and whose output is a value function estimating future rewards. We apply our method to seven Atari 2600 games from the Arcade Learning Environment, with no adjustment of the architecture or learning algorithm. We find that it outperforms all previous approaches on six of the games and surpasses a human expert on three of them.

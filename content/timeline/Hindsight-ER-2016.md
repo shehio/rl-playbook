@@ -16,7 +16,7 @@ weight: 10
 ## Abstract
 
 <figure>
-  <img src="/images/HER.png" />
+  <img src="/images/HER.png" alt="Success rates on pushing, sliding, and pick-and-place tasks showing DDPG with Hindsight Experience Replay outperforming plain DDPG" />
 </figure>
 
 Dealing with sparse rewards is one of the biggest challenges in Reinforcement Learning (RL). We present a novel technique called Hindsight Experience Replay which allows sample-efficient learning from rewards which are sparse and binary and therefore avoid the need for complicated reward engineering. It can be combined with an arbitrary off-policy RL algorithm and may be seen as a form of implicit curriculum.
