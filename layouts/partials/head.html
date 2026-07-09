@@ -2,10 +2,8 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="{{ if .Params.author }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}">
-<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.homeSubtitle }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
-<meta name="keywords" content="{{ .Site.Params.keywords }}{{ if .Params.tags }}{{ range .Params.tags }}, {{ . }}{{ end }}{{ end }}" />
+<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
 <meta name="robots" content="noodp" />
-<meta name="theme-color" content="{{ .Site.Params.themeColor }}" />
 <link rel="canonical" href="{{ .Permalink }}" />
 
 {{ block "title" . }}
@@ -19,9 +17,6 @@
 {{ end }}
 
 <!-- CSS -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet"
-    type="text/css">
-
 {{ $options := (dict "targetPath" "main.css" "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $style := resources.Get "scss/main.scss" | toCSS $options | fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">

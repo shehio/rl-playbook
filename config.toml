@@ -4,6 +4,7 @@ title = "Reinforcement Learning Playbook"
 theme = "timeline"
 
 [Params]
+description = "A chronological timeline of the landmark deep reinforcement learning papers, from DQN on Atari (2013) to OpenAI Five (2019)."
 author = "Shehab Yasser"
 authorURL = "https://www.shehabyasser.com"
 video = "DQN Breakout.mp4"
