@@ -7,7 +7,7 @@ theme = "timeline"
 description = "A chronological timeline of the landmark deep reinforcement learning papers, from DQN on Atari (2013) to OpenAI Five (2019)."
 author = "Shehab Yasser"
 authorURL = "https://www.shehabyasser.com"
-video = "DQN Breakout.mp4"
+video = "dqn-breakout.mp4"
 header = "RL Playbook"
 timelineTitle = "How RL Evolved"
 
