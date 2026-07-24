@@ -1,16 +1,7 @@
 ---
-author:
-  name: ""
-date: 26 Feb 2015
-linktitle:
-type:
-- post
-- posts
+date: 2015-02-26
 title: Human-level control through deep reinforcement learning
 img: /images/Human-level-control.png
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract

@@ -1,18 +1,9 @@
 ---
 aliases:
 - /timeline/hindsight-er-2016/
-author:
-  name: ""
-date: 05 Jul 2017
-linktitle:
-type:
-- post
-- posts
+date: 2017-07-05
 title: Hindsight Experience Replay
 img: /images/HER.png
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract

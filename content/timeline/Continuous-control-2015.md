@@ -1,16 +1,7 @@
 ---
-author:
-  name: ""
-date: 09 Sep 2015
-linktitle:
-type:
-- post
-- posts
+date: 2015-09-09
 title: Continuous control with deep reinforcement learning
 img: /images/Continuous-control.png
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract

@@ -1,16 +1,7 @@
 ---
-author:
-  name: ""
-date: 07 Dec 2018
-linktitle:
-type:
-- post
-- posts
+date: 2018-12-07
 title: A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play
 img: /images/Alpha-Zero.png
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract
