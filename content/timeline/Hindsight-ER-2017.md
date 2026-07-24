@@ -1,4 +1,6 @@
 ---
+aliases:
+- /timeline/hindsight-er-2016/
 author:
   name: ""
 date: 05 Jul 2017
