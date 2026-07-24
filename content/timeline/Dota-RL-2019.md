@@ -1,16 +1,7 @@
 ---
-author:
-  name: ""
-date: 13 Dec 2019
-linktitle:
-type:
-- post
-- posts
+date: 2019-12-13
 title: Dota 2 with Large Scale Deep Reinforcement Learning
 img: /images/DOTA.png
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract

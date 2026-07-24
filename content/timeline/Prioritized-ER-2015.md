@@ -1,15 +1,6 @@
 ---
-author:
-  name: ""
-date: 18 Nov 2015
-linktitle:
-type:
-- post
-- posts
+date: 2015-11-18
 title: Prioritized Experience Replay
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract

@@ -1,16 +1,7 @@
 ---
-author:
-  name: ""
-date: 19 Dec 2013
-linktitle:
-type:
-- post
-- posts
+date: 2013-12-19
 title: Playing Atari with Deep Reinforcement Learning
 img: /images/Atari-2013-1.png
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract

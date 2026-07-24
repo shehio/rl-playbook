@@ -1,16 +1,7 @@
 ---
-author:
-  name: ""
-date: 30 Oct 2019
-linktitle:
-type:
-- post
-- posts
+date: 2019-10-30
 title: Grandmaster level in StarCraft II using multi-agent reinforcement learning
 img: /images/Alpha-Star.png
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract

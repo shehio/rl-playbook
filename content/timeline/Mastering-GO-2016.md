@@ -1,16 +1,7 @@
 ---
-author:
-  name: ""
-date: 28 Jan 2016
-linktitle:
-type:
-- post
-- posts
+date: 2016-01-28
 title: Mastering the game of Go with deep neural networks and tree search
 img: /images/Mastering-GO-1.png
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract

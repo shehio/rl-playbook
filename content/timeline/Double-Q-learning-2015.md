@@ -1,16 +1,7 @@
 ---
-author:
-  name: ""
-date: 22 Sep 2015
-linktitle:
-type:
-- post
-- posts
+date: 2015-09-22
 title: Deep Reinforcement Learning with Double Q-learning
 img: /images/Double-Q-learning.png
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract

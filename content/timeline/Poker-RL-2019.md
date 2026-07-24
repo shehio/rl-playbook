@@ -1,15 +1,6 @@
 ---
-author:
-  name: ""
-date: 30 Aug 2019
-linktitle:
-type:
-- post
-- posts
+date: 2019-08-30
 title: Superhuman AI for multiplayer poker
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract

@@ -1,16 +1,7 @@
 ---
-author:
-  name: ""
-date: 04 Feb 2016
-linktitle:
-type:
-- post
-- posts
+date: 2016-02-04
 title: Asynchronous Methods for Deep Reinforcement Learning
 img: /images/Asynchronous-methods.png
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract

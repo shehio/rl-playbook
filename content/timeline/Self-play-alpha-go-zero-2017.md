@@ -1,16 +1,7 @@
 ---
-author:
-  name: ""
-date: 19 Oct 2017
-linktitle:
-type:
-- post
-- posts
+date: 2017-10-19
 title: Mastering the game of Go without human knowledge
 img: /images/Alpha-Go-Zero.png
-eventname:
-eventlocation:  
-weight: 10
 ---
 
 ## Abstract
