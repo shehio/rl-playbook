@@ -35,7 +35,7 @@ These achievements didn’t go unnoticed, with RL researchers soon having featur
 
 Games have provided the perfect test environment for different RL algorithms, although researchers have since refocused RL on more practical uses. See RL shines in solving complex problems that require planning a few steps ahead like robotics, exploration rovers, and of course, self-driving cars. Moreover, it’s used in bid optimization for online ad auctions and delivering individually tailored recommendations for your next song or movie.
 
-In 2020, RL seemed to be on a trajectory to change the world as we know it. Nowadays, AI researchers believe that RL could one day bring us closer to [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence), i.e., the creation of intelligent agents capable of understanding or learning any intellectual task. In short, these computer programs would be capable of passing the well-known [Turing test](https://en.wikipedia.org/wiki/Turing_test).
+RL has also become a key ingredient in training large language models, where reinforcement learning from human feedback is used to align them with human intent. More broadly, AI researchers believe that RL could one day bring us closer to [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence), i.e., the creation of intelligent agents capable of understanding or learning any intellectual task. In short, these computer programs would be capable of passing the well-known [Turing test](https://en.wikipedia.org/wiki/Turing_test).
 
 ---
 
