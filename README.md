@@ -1,6 +1,6 @@
 # rl-playbook
 
-Source for [rlplaybook.com](https://rlplaybook.com) — a visual timeline of reinforcement learning breakthroughs, from DQN playing Atari (2013) to AlphaZero, Pluribus, OpenAI Five, and AlphaStar (2019). Each entry summarizes a landmark paper and links to the original publication. See the [About](https://rlplaybook.com/about/) page for background.
+Source for [rlplaybook.com](https://rlplaybook.com) — a visual timeline of reinforcement learning breakthroughs, from DQN playing Atari (2013) through AlphaZero, Pluribus, OpenAI Five, and AlphaStar to the RLHF era and DeepSeek-R1 (2025). Each entry summarizes a landmark paper and links to the original publication. See the [About](https://rlplaybook.com/about/) page for background.
 
 Built with [Hugo](https://gohugo.io/) and the [hugo-theme-timeline](https://github.com/shehio/hugo-theme-timeline) theme, deployed to GitHub Pages via GitHub Actions.
 
