@@ -1,5 +1,5 @@
 ---
-date: 2019-11-20
+date: 2019-11-19
 title: Mastering Atari, Go, chess and shogi by planning with a learned model
 img: /images/MuZero-2019.png
 ---

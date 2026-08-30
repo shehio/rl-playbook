@@ -25,7 +25,7 @@ RL is a machine learning paradigm that seeks to make optimal decisions by studyi
 
 ### Why Is RL Interesting?
 
-In the late 20th century, AI researchers attempted to model different complex problems using  RL frameworks. After decades of research, their efforts were to no avail. Although RL didn’t initially seem to be a promising field of study, true believers never lost hope. 
+In the late 20th century, AI researchers attempted to model different complex problems using  RL frameworks. After decades of research, the results stayed narrow. There were real successes — Tesauro’s TD-Gammon reached world-class backgammon play with TD learning in 1992 — but they were hard to carry across to other problems, and RL spent years looking like a niche. True believers never lost hope. 
 
 Ultimately, their persistence paid off. Fueled by new advances in [deep learning](https://en.wikipedia.org/wiki/Deep_learning), RL has finally taken off in the last few years. The paradigm has tackled many challenges that AI researchers had only recently declared to be decades out of reach.
 
@@ -41,13 +41,13 @@ RL has also become a key ingredient in training large language models, where rei
 
 ### How Does RL Work?
 
-Reinforcement Learning is a branch of machine learning that studies optimal decision-making to maximize a reward function (the equivalent of winning a game). Different algorithms attempt to maximize the reward differently, either by maximizing the value function, value-action function, policy, or a combination.
+Reinforcement Learning is a branch of machine learning that studies optimal decision-making to maximize a reward function (the equivalent of winning a game). Different algorithms attempt to maximize the reward differently, either by maximizing the value function, action-value function, policy, or a combination.
 
 RL can either be model-based, with the algorithm attempting to figure out the transitions of the environment, or model-free, where the algorithm doesn’t care about learning the environment and focuses solely on maximizing a reward function or achieving a near-optimal policy.
 
-Many RL problems are modeled as [Markovian Decision Processes(MDPs)](https://en.wikipedia.org/wiki/Markov_decision_process), which are mostly partially observed. It also leverages [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming), [Monte Carlo simulations](https://en.wikipedia.org/wiki/Monte_Carlo_method), and of course, [neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network).
+Many RL problems are modeled as [Markov Decision Processes (MDPs)](https://en.wikipedia.org/wiki/Markov_decision_process), in which the agent sees the full state. When it only sees part of it — the usual case in practice — the model is a [partially observable MDP](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process). It also leverages [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming), [Monte Carlo simulations](https://en.wikipedia.org/wiki/Monte_Carlo_method), and of course, [neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network).
 
-In his seminal [reference](http://incompleteideas.net/book/the-book-2nd.html), [Richard Sutton](https://en.wikipedia.org/wiki/Richard_S._Sutton) writes: “Almost all reinforcement learning algorithms involve estimating value functions.”
+In their seminal [reference](http://incompleteideas.net/book/the-book-2nd.html), [Richard Sutton](https://en.wikipedia.org/wiki/Richard_S._Sutton) and [Andrew Barto](https://en.wikipedia.org/wiki/Andrew_Barto) write: “Almost all reinforcement learning algorithms involve estimating value functions.”
 
 
 ---
